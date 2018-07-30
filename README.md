@@ -65,3 +65,4 @@ To test the above Hyptheses we visualized the following:
 **E.** The data also has a list of advertisers who have added our information to their list. Given our distinct backgrounds, we were curious to see if we have any common advertisers and so we visualized the same with a venn diagram wordcloud
 
 ![](Images/E.1_Common_Advertisers_VennWordcloud.png)
+**Insights:** From the Venn diagram wordcloud above, it can be inferred that Hypothesis E.1 is correct as Ribo and Aash do have many common advertisers such as Ubereats, Instagram, Walmart, T-mobile, Dell, Facebook etcetra
