@@ -35,7 +35,7 @@ We tested the following Hypotheses:
 
 **C.1** Both Aash and Ribo are more likely to "comment" on photos versus replies to comments and videos
 
-**D.1** Both Aash and Ribo are morelikely to "comment" and "like" on the weeken ds or after 5pm.
+**D.1** Both Aash and Ribo are morelikely to "comment" and "like" on the weekends or after 5pm.
 
 **E.1** Although Aash and Ribo are from different contires with diverse backgrounds, they will still have some common advertisers.
 
@@ -46,16 +46,20 @@ To test the above Hyptheses we visualized the following:
 
 **B.** Visualizing and comparing most active months and years on Facebook by analyzing comments activity
 ![](Images/B.1_Facebook_activity_over_years.png)
+**Insights:** It can be inferred from the graph above that Hypothesis B.2 is correct in Ribo's case but doesn't hold true in Aash's case as her comments did drop a little when her mom joined Facebook, but they picked up again since she isn't too active on other social media platforms explaining why her Facebook usage remained unaffected except in the mid-2012 to mid-2013 period when she was close to graduation and busy with studies.
 
 ![](Images/B.2_Facebook_activity_over_months.png)
+**Insights:** It can be inferred from the graph above that Hypothesis B.1 is correct as, in both our cases we are most active in our Birthday Months
 
 **C.** We can comment on photos, videos, posts or reply to others comments. We were curious to find out if we are more likely to comment on photos, videos, posts or reply to others comments. So the third visualization is an area chart of Ribo and Aash comments activity over time.
 
 
 **D.** Heat Map representing the most active time and day of the week on Facebook, in terms of likes and comments for Aash and Ribo
 ![](Images/D.1.1_HeatMap_Facebook_Comments_Ribo.png)
+**Insights:** It can be inferred from the graph above that Hypotheses C.1 holds true for Ribo also as his comments on Photos are higher than replies to other comments which are higher than comments on videos
 
 ![](Images/D.1.2_HeatMap_Facebook_Comments_Aash.png)
+**Insights:** It can be inferred from the graph above that Hypotheses C.1 holds true for Aash as her comments on Photos are higher than replies to other comments which are higher than comments on videos
  
 
 **E.** The data also has a list of advertisers who have added our information to their list. Given our distinct backgrounds, we were curious to see if we have any common advertisers and so we visualized the same with a venn diagram wordcloud
