@@ -51,7 +51,7 @@ I tested the following Hypotheses:
 
 
 ![](Images/mean_closeness.png)
-**Insights:** Hypothesis 1 is false. ENTP, INTJ and ENTJ are the among the least close types.
+**Insights:** Hypothesis 1 is false. ENTPs, INTJs and ENTJs are the among the least close types; therefore, the high frequency of these types are caused by another factor.
 
 
 **Hypothesis 2:** I am an ENTP therefore I should have more synergy with Rationals (NTs) compared to all other types.
@@ -60,3 +60,4 @@ I tested the following Hypotheses:
 
 ![](Images/avg_synergy.png)
 
+**Insights:** I have the most synergy with INTPs and INTJs are above the mean. However, ENTPs and ENTJs are at or below the mean. Therefore, the hypothesis is somewhat true.
