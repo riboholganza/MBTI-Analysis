@@ -5,6 +5,9 @@
 ## Rationale
 Growing up, I have always been fascinated by trying to understand myself, people and the differences in our perceptions of the world. I learned about myself, the way I think, my cognitive functions and much more when I learned my MBTI type. This sparked a curiousity about other people and their individual and unique experience. Since 2011, I have been keeping track of people who know their MBTI type or those whom I requested to take the test. Some of my results are outlined below.
 
+## Technology
+Python 3, Anaconda Navigator, Pandas, Matplotlib, Numpy
+
 ## Important Columns
 
 **MBTI Type** : there are 16 possible 4-letter combinations. 
